@@ -1,3 +1,0 @@
-import mlperf_log_utils
-from mlperf_logging.mllog import constants
-mlperf_log_utils.mlperf_submission_log(constants.RESNET)

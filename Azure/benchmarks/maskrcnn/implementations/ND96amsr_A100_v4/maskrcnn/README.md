@@ -1,1 +1,0 @@
-This repo contains code for Mlperf maskrcnn benchmark
